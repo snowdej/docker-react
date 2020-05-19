@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> test travis build
+          Edit <code>src/App.js</code> test travis build and then heroku
         </p>
         <a
           className="App-link"
